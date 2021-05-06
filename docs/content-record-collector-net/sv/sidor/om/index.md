@@ -1,5 +1,5 @@
 +++
-linkTitle = "Om Record Collector"
+linkTitle = "Om projektet"
 title = "Vad är Record Collector?"
 description = "Information om vad Record Collector innehåller."
 weight = 15
