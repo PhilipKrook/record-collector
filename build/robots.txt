@@ -1,3 +1,0 @@
-﻿User-agent: *
-Allow: /
-Sitemap: https://record-collector.net/sitemap.xml

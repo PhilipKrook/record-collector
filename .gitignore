@@ -8,3 +8,4 @@ node_modules
 artifacts/static-site/
 artifacts/zip-*.bat
 artifacts/*.zip
+build
