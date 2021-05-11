@@ -6,7 +6,7 @@ categories:
   - Deployment
   - Automation
 images:
-  - /files/photo-1.jpg
+  - /files/github.jpg
 authorname: "Johan Kronberg"
 authorimage: "/files/jk.jpg"
 ---
