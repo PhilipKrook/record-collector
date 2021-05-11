@@ -6,7 +6,7 @@ categories:
   - Deployment
   - Automation
 images:
-  - /files/photo-8.jpg
+  - /files/netlify.jpg
 authorname: "Johan Kronberg"
 authorimage: "/files/jk.jpg"
 ---
