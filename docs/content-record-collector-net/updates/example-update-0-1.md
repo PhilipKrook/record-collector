@@ -1,20 +1,14 @@
 ---
-title: "Example update 0.1"
+title: "Downhill biking"
 date: 2020-04-01
-description: "META description is considered required by many."
+description: "Chairlift up, bike down"
 categories:
-  - Examples
-authorname: "Johan Kronberg"
-authorimage: "/files/jk.jpg"
+  - Biking
+images:
+  - /files/bikingimg_opt.jpg
+authorname: "Philip Krook"
+authorimage: "/files/ego_opt.jpg"
 robots: "noindex"
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-<!--more-->
-There should be whitespace between paragraphs and they can contain text that is long or short. This is sample content.
-
-## Heading on level 2
-
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-* This is an unordered list following a header.
+Nulla quam felis, enim faucibus proin velit, ornare id pretium. Augue ultrices sed arcu condimentum vestibulum suspendisse. Volutpat eu faucibus vivamus eget bibendum cras.
